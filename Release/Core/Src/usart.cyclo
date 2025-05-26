@@ -1,0 +1,16 @@
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h:761:22:LL_APB2_GRP1_EnableClock	1
+../Drivers/CMSIS/Include/core_cm3.h:1686:26:NVIC_EncodePriority.constprop	1
+../Core/Src/usart.c:54:6:MX_USART1_UART_Init	1
+../Core/Src/usart.c:107:6:MX_USART2_UART_Init	1
+../Core/Src/usart.c:161:6:UART1FIFOInit	1
+../Core/Src/usart.c:176:5:UART1Probe	1
+../Core/Src/usart.c:181:9:UART1GetChar	2
+../Core/Src/usart.c:198:6:UART1PutChar	2
+../Core/Src/usart.c:214:6:UART1IRQHandler	5
+../Core/Src/usart.c:247:10:UART1Send	3
+../Core/Src/usart.c:261:9:UART2GetChar	2
+../Core/Src/usart.c:280:5:UART2Probe	1
+../Core/Src/usart.c:285:6:UART2FIFOInit	1
+../Core/Src/usart.c:299:6:UART2PutChar	2
+../Core/Src/usart.c:323:10:UART2Send	2
+../Core/Src/usart.c:333:6:UART2IRQHandler	6

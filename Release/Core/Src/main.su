@@ -1,0 +1,6 @@
+../Core/Src/main.c:330:6:SystemClock_Config	72	static,ignoring_inline_asm
+../Core/Src/main.c:394:5:serialPrint	8	static
+../Core/Src/main.c:367:6:downStreamCommandHandler	120	static
+../Core/Src/main.c:107:5:main	144	static
+../Core/Src/main.c:406:5:__io_putchar	8	static
+../Core/Src/main.c:424:6:Error_Handler	0	static,ignoring_inline_asm
